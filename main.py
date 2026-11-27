@@ -1,4 +1,4 @@
-LINE = "I can't come in today - my bed has filed a formal complaint about my absence, and HR (my cat) has approved the leave."
+LINE = "Can't come in today. My immune system just pushed an update and it's been restarting me every twenty minutes."
 
 
 def validated_line() -> str:
